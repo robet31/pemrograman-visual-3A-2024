@@ -1,1 +1,1 @@
-fix: correct typo in error message - 2026-08-11
+fix: sanitize input to prevent injection - 2026-08-11
