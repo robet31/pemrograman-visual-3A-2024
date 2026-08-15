@@ -1,1 +1,1 @@
-fix: correct off-by-one on loop iteration - 2026-08-12
+refactor: simplify nested conditional - 2026-08-15
