@@ -1,1 +1,1 @@
-chore: remove unused imports & dead code - 2026-08-26
+perf: optimize database query execution - 2026-08-30
