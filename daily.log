@@ -1,1 +1,1 @@
-perf: optimize database query execution - 2026-08-30
+refactor: clean up redundant logic in handler - 2026-08-30
