@@ -1,1 +1,1 @@
-refactor: clean up redundant logic in handler - 2026-08-30
+fix: sanitize input to prevent injection - 2026-08-30
