@@ -1,1 +1,1 @@
-fix: patch memory leak on long process - 2026-09-27
+fix: correct typo in error message - 2026-09-28
