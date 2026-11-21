@@ -1,1 +1,1 @@
-fix: patch memory leak on long process - 2026-11-21
+test: add unit test for edge case - 2026-11-21
