@@ -1,1 +1,1 @@
-fix: sanitize input to prevent injection - 2026-11-22
+fix: correct off-by-one on loop iteration - 2026-11-23
