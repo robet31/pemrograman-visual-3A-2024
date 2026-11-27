@@ -1,1 +1,1 @@
-fix: patch memory leak on long process - 2026-11-25
+fix: resolve conflict between dependencies - 2026-11-27
